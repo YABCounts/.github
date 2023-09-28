@@ -79,3 +79,5 @@ Without these people, this project would not be possible!
     </td>
   </tr>
 </table>
+
+<sup>&copy; YAB ?! Counts 2023. All rights reserved.</sup>
