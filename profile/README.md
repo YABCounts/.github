@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-Welcome to the official YAB ?! Counts GitHub organization! This is where we do most of our work on our project, [YAB ?! Counts](https://yabcounts.com).
+Welcome to the official YAB ?! Counts GitHub organization! This is where our team does most of our work on our project, [YAB ?! Counts](https://yabcounts.com), which is an all-new revolutionary live counts website.
 
 **Keep in mind**: Our main website's source code is _closed source_, which means it is not public. We don't have plans on making our website open source.
 
