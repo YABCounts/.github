@@ -45,7 +45,7 @@ Without these people, this project would not be possible!
         <br />
         <a href="https://youtube.com/@JipStats"><b>JipStats</b></a>
         <br />
-        <sup>Marketing</sup>
+        <sup>Marketing and Estimation Developer</sup>
       </div>
     </td>
   </tr
