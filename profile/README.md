@@ -39,6 +39,8 @@ Without these people, this project would not be possible!
         <sup>Frontend Developer</sup>
       </div>
     </td>
+  </tr
+  <tr>
     <td>
       <div align="center" valign="top" width="14.28%">
         <img width="100" height="100" src="https://yt3.ggpht.com/MUp2-cuP-5u4shkbWEmYIPGWNPL9TMr4HLBVw0xaLmme9KD-W3FKouSq_qXfJqlUXT-rF_TgQw=s176-c-k-c0x00ffffff-no-rj-mo">
@@ -48,8 +50,6 @@ Without these people, this project would not be possible!
         <sup>Marketing and Estimation Developer</sup>
       </div>
     </td>
-  </tr
-  <tr>
         <td>
       <div align="center" valign="top" width="14.28%">
         <img width="100" height="100" src="https://yt3.ggpht.com/oUcmdn7rkvxQPgKPYfjinOSt3ZhmER46dJ8u8mE8lom05BijMZzxh-KNqX2HtrA6Tymx2be_=s176-c-k-c0x00ffffff-no-rj-mo">
@@ -68,6 +68,8 @@ Without these people, this project would not be possible!
         <sup>Backend Developer and Partner</sup>
       </div>
     </td>
+  </tr>
+  <tr>
     <td>
       <div align="center" valign="top" width="14.28%">
         <img width="100" height="100" src="https://yt3.googleusercontent.com/GrbR6MzJOo4ZZgk3yKt4uy1YYAQucAZmumwBWr8vhr2OYSHqDAYUP0G8qlEW87DLMdCTmcQ-XQ=s176-c-k-c0x00ffffff-no-rj">
