@@ -43,7 +43,7 @@ Without these people, this project would not be possible!
   <tr>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.ggpht.com/MUp2-cuP-5u4shkbWEmYIPGWNPL9TMr4HLBVw0xaLmme9KD-W3FKouSq_qXfJqlUXT-rF_TgQw=s176-c-k-c0x00ffffff-no-rj-mo">
+        <img width="100" height="100" src="https://yt3.googleusercontent.com/VxRHwhAmiOHzoQJ1JgvHQW9ZX2rL2j7l5ezZsMbZza4luq5WjUP63uEWVUXFfzy4zqR8VHpdAg=s176-c-k-c0x00ffffff-no-rj">
         <br />
         <a href="https://youtube.com/@JipStats"><b>JipStats</b></a>
         <br />
