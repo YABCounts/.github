@@ -69,17 +69,6 @@ Without these people, this project would not be possible!
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.googleusercontent.com/GrbR6MzJOo4ZZgk3yKt4uy1YYAQucAZmumwBWr8vhr2OYSHqDAYUP0G8qlEW87DLMdCTmcQ-XQ=s176-c-k-c0x00ffffff-no-rj">
-        <br />
-        <a href="https://youtube.com/@hexzdmusic"><b>HEXZD</b></a>
-        <br />
-        <sup>Backend and Estimation Developer</sup>
-      </div>
-    </td>
-  </tr>
 </table>
 
 <sup>&copy; YAB ?! Counts 2023. All rights reserved.</sup>
