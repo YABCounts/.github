@@ -63,7 +63,7 @@ Without these people, this project would not be possible!
       <div align="center" valign="top" width="14.28%">
         <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/next.png">
         <br />
-        <a href="https://youtube.com/@SubscriberBattles"><b>RicksNext</b></a>
+        <a href="https://twitter.com/RicksNext"><b>RicksNext</b></a>
         <br />
         <sup>Backend Developer and Partner</sup>
       </div>
