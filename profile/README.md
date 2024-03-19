@@ -52,7 +52,7 @@ Without these people, this project would not be possible!
     </td>
         <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.ggpht.com/oUcmdn7rkvxQPgKPYfjinOSt3ZhmER46dJ8u8mE8lom05BijMZzxh-KNqX2HtrA6Tymx2be_=s176-c-k-c0x00ffffff-no-rj-mo">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/gnz.png">
         <br />
         <a href="https://youtube.com/@GNZGUY"><b>GNZGUY</b></a>
         <br />
