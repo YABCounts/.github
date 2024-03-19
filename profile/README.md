@@ -14,7 +14,7 @@ Without these people, this project would not be possible!
   <tr>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.googleusercontent.com/OCpgsHrJQxp4jbIITBXoChkM2e6Erq_1sG1Inwz0edbraec_fRybzTqBhr_kZHtHOh2k8Rup=s176-c-k-c0x00ffffff-no-rj">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/yab.png">
         <br />
         <a href="https://youtube.com/@YTAltBattles1"><b>YAB ?!</b></a>
         <br />
@@ -23,7 +23,7 @@ Without these people, this project would not be possible!
     </td>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://github.com/ElectricOrBloxtric.png">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/electric.png">
         <br />
         <a href="https://github.com/ElectricOrBloxtric"><b>ElectricOrBloxtric</b></a>
         <br />
@@ -32,7 +32,7 @@ Without these people, this project would not be possible!
     </td>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://github.com/ToastedDev.png">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/toast.png">
         <br />
         <a href="https://github.com/ToastedDev"><b>ToastedToast</b></a>
         <br />
@@ -43,7 +43,7 @@ Without these people, this project would not be possible!
   <tr>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.googleusercontent.com/VxRHwhAmiOHzoQJ1JgvHQW9ZX2rL2j7l5ezZsMbZza4luq5WjUP63uEWVUXFfzy4zqR8VHpdAg=s176-c-k-c0x00ffffff-no-rj">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/jip.png">
         <br />
         <a href="https://youtube.com/@JipStats"><b>JipStats</b></a>
         <br />
@@ -61,9 +61,9 @@ Without these people, this project would not be possible!
     </td>
     <td>
       <div align="center" valign="top" width="14.28%">
-        <img width="100" height="100" src="https://yt3.googleusercontent.com/ytc/APkrFKZdp-G8cLN5kpuMvngqchISqQuUiKD10CBrJLP_pQ=s176-c-k-c0x00ffffff-no-rj">
+        <img width="100" height="100" src="https://cdn.yabcounts.com/github/team/next.png">
         <br />
-        <a href="https://youtube.com/@SubscriberBattles"><b>Subscriber Battles</b></a>
+        <a href="https://youtube.com/@SubscriberBattles"><b>RicksNext</b></a>
         <br />
         <sup>Backend Developer and Partner</sup>
       </div>
@@ -71,4 +71,4 @@ Without these people, this project would not be possible!
   </tr>
 </table>
 
-<sup>&copy; YAB ?! Counts 2023. All rights reserved.</sup>
+<sup>&copy; YAB ?! Counts 2024. All rights reserved.</sup>
